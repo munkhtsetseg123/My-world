@@ -24,7 +24,7 @@
    <li><p><a>Миний хобби</a></p></li>
    <li><p><a>Гэр бүл</a></p></li>
    <li><p><a>Холбоо барих</a></p></li>
-	   </ol>
+	  
    <hr>
    <h3>Миний тухай</h3>
    <hr> 
@@ -70,7 +70,6 @@
 	<br><a href="https://www.facebook.com/profile.php?id=100068663899224">Facebook</a>
 	<br>SISI id: 20b1num1259
 </p>
-	</body>
-	</html>
+
 	
 	
